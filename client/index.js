@@ -1,6 +1,6 @@
-// import App from './client/app.js';
+import App from './client/app.js';
 
-// ReactDOM.render(
-//   <App />,
-//   document.getElementById('app')
-// );
+ReactDOM.render(
+  <App />,
+  document.getElementById('app')
+);
