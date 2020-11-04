@@ -1,6 +1,9 @@
-import App from './client/app.js';
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(
-  <App />,
-  document.getElementById('app')
-);
+import App from './app';
+
+ReactDOM.render(<App />, document.getElementById('app'));
+
+// registerServiceWorker();

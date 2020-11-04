@@ -23,6 +23,7 @@
     "@babel/preset-react": "^7.12.5",
     "bluebird": "^3.7.2",
     "express": "^4.17.1",
+    "jquery": "^3.5.1",
     "react": "^17.0.1",
     "underscore": "^1.11.0"
   }
